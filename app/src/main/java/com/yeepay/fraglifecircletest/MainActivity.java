@@ -54,7 +54,7 @@ public class MainActivity extends AbsActivity implements View.OnClickListener {
 //                if (fragA == null) {
 //                    fragA = new FragA();
 //                    fragmentTransaction.replace(R.id.frag_container, fragA, fragNames[0]);
-//                    fragmentTransaction.addToBackStack(fragNames[0]);
+////                    fragmentTransaction.addToBackStack(fragNames[0]);
 //                } else {
 //                    Fragment fragment = fragmentManager.findFragmentByTag(fragNames[0]);
 //                    fragmentTransaction.replace(R.id.frag_container, fragment, fragNames[0]);
@@ -64,7 +64,7 @@ public class MainActivity extends AbsActivity implements View.OnClickListener {
 //                if (fragB == null) {
 //                    fragB = new FragB();
 //                    fragmentTransaction.replace(R.id.frag_container, fragB, fragNames[1]);
-//                    fragmentTransaction.addToBackStack(fragNames[1]);
+////                    fragmentTransaction.addToBackStack(fragNames[1]);
 //                } else {
 //                    Fragment fragment = fragmentManager.findFragmentByTag(fragNames[1]);
 //                    fragmentTransaction.replace(R.id.frag_container, fragment, fragNames[1]);
